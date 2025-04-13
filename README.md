@@ -39,3 +39,14 @@ Este é um dashboard visual, criado com **React** e **Tailwind CSS**, que exibe 
 1. Clone este repositório:
 ```bash
 git clone https://github.com/seu-usuario/dashboard-vida-digital.git
+
+---
+
+## 👩‍💻 Feito por
+
+**Vanessa**, futura Analista de Sistemas e entusiasta em tecnologia!  
+Conecte-se comigo:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/vanessa-teles-norte-148715237/)
+
+---
