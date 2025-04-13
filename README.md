@@ -29,7 +29,6 @@ Este é um dashboard visual, criado com **React** e **Tailwind CSS**, que exibe 
 
 ## 📷 Print do Projeto
 
-(🔽 Insira aqui a imagem do dashboard)
 
 ![Dashboard Vida Digital](./imagem%20dashboard%20digital.PNG)
 
